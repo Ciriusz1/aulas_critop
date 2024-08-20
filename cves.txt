@@ -1,5 +1,3 @@
-Cristiano Henrique dos Santos
-19:35
 CVE-2024-21058
 CVE-2024-21066
 CVE-2024-21093
